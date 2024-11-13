@@ -1,1 +1,1 @@
-# DataAplication-Global-Solution
+# DataAplication-GlobalSolution
