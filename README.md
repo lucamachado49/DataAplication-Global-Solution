@@ -15,9 +15,9 @@ Este projeto em Python foi desenvolvido para monitorar e analisar o consumo diá
 
 4. **Relatório de Resultados**  
    Exibe um resumo detalhado, incluindo:  
-   - Quantos dias atingiram ou não a meta.  
-   - Média, maior e menor consumo, e os dias correspondentes.  
-   - Apresenta mensagens específicas para cenários em que todos ou nenhum dia atingiram a meta.
+   Quantos dias atingiram ou não a meta.  
+   Média, maior e menor consumo, e os dias correspondentes.  
+   Apresenta mensagens específicas para cenários em que todos ou nenhum dia atingiram a meta.
 
 ---
 
